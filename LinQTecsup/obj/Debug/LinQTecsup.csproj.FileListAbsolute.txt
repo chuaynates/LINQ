@@ -1,0 +1,7 @@
+C:\Users\Cristian\source\repos\LinQTecsup\LinQTecsup\bin\Debug\LinQTecsup.exe.config
+C:\Users\Cristian\source\repos\LinQTecsup\LinQTecsup\bin\Debug\LinQTecsup.exe
+C:\Users\Cristian\source\repos\LinQTecsup\LinQTecsup\bin\Debug\LinQTecsup.pdb
+C:\Users\Cristian\source\repos\LinQTecsup\LinQTecsup\obj\Debug\LinQTecsup.csprojAssemblyReference.cache
+C:\Users\Cristian\source\repos\LinQTecsup\LinQTecsup\obj\Debug\LinQTecsup.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\LinQTecsup\LinQTecsup\obj\Debug\LinQTecsup.exe
+C:\Users\Cristian\source\repos\LinQTecsup\LinQTecsup\obj\Debug\LinQTecsup.pdb
